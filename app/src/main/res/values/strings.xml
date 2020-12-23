@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pdf Viewer App</string>
+    <string-array name="campus">
+        <item>Amcat Certificate</item>
+        <item>Android Components CourseraCertificate</item>
+        <item>Build Simple App Coursera Certificate</item>
+        <item>Table Layout Coursera Certificate</item>
+        <item>Coursera Android Certificate</item>
+        <item>Capgemini Tech Challenge Certificate</item>
+        <item>Curriculum Vitae</item>
+        <item>NPTEL Marksheet</item>
+        <item>1G To 5G</item>
+        <item>Are You Willing To Relocate</item>
+        <item>Do You Have Any Question For Me</item>
+        <item>Tell Me About Youself</item>
+        <item>What Are Your Biggest Achievement</item>
+        <item>What Are Your Short Term and Long Term Goal</item>
+        <item>Project Report</item>
+        <item>Project Thesis</item>
+
+    </string-array>
+</resources>
